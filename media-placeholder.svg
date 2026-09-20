@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Изображение недоступно</title>
+  <desc id="desc">Локальная заглушка для изображения, которое не сохранено в каталоге</desc>
+  <rect width="1200" height="675" fill="#111820"/>
+  <path d="M0 510 240 330l150 112 170-170 280 238 160-116 200 154v127H0Z" fill="#1b2b36"/>
+  <rect x="72" y="72" width="1056" height="531" rx="26" fill="none" stroke="#5e8292" stroke-width="3" opacity=".55"/>
+  <circle cx="600" cy="267" r="76" fill="#83d6ff" opacity=".14"/>
+  <path d="M600 218v72m-36-36h72" stroke="#83d6ff" stroke-width="8" stroke-linecap="round"/>
+  <text x="600" y="430" fill="#edf7fb" font-family="Arial, sans-serif" font-size="38" font-weight="700" text-anchor="middle">ИЗОБРАЖЕНИЕ НЕДОСТУПНО</text>
+  <text x="600" y="478" fill="#a9c0ca" font-family="Arial, sans-serif" font-size="24" text-anchor="middle">Добавьте локальный файл через редактор</text>
+</svg>
